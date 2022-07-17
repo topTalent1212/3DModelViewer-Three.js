@@ -554,7 +554,6 @@ THREE.OBJLoader.prototype = {
 			container.add( mesh );
 
 		}
-
 		console.timeEnd( 'OBJLoader' );
 
 		return container;
